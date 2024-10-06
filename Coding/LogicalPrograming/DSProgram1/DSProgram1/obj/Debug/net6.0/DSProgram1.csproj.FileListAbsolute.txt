@@ -1,0 +1,15 @@
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\bin\Debug\net6.0\DSProgram1.exe
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\bin\Debug\net6.0\DSProgram1.deps.json
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\bin\Debug\net6.0\DSProgram1.runtimeconfig.json
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\bin\Debug\net6.0\DSProgram1.dll
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\bin\Debug\net6.0\DSProgram1.pdb
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\DSProgram1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\DSProgram1.AssemblyInfoInputs.cache
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\DSProgram1.AssemblyInfo.cs
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\DSProgram1.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\DSProgram1.sourcelink.json
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\DSProgram1.dll
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\refint\DSProgram1.dll
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\DSProgram1.pdb
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\DSProgram1.genruntimeconfig.cache
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\DSProgram1\DSProgram1\obj\Debug\net6.0\ref\DSProgram1.dll

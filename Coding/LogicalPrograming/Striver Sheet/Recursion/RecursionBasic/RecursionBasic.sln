@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.6.33829.357
+VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSProgram1", "DSProgram1\DSProgram1.csproj", "{87084725-AF09-4665-B02A-78F5A3BE9A66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionBasic", "RecursionBasic.csproj", "{FDD36785-9763-485C-8CB4-A2232A10F726}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{87084725-AF09-4665-B02A-78F5A3BE9A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{87084725-AF09-4665-B02A-78F5A3BE9A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{87084725-AF09-4665-B02A-78F5A3BE9A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{87084725-AF09-4665-B02A-78F5A3BE9A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD36785-9763-485C-8CB4-A2232A10F726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD36785-9763-485C-8CB4-A2232A10F726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD36785-9763-485C-8CB4-A2232A10F726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD36785-9763-485C-8CB4-A2232A10F726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6968B912-CE6F-460F-A876-C059F69A5AF9}
+		SolutionGuid = {1C2738E2-DA89-4FAF-A33A-766850D3AB91}
 	EndGlobalSection
 EndGlobal

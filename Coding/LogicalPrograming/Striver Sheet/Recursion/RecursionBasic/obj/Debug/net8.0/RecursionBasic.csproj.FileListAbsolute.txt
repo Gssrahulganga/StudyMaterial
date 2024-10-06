@@ -1,0 +1,15 @@
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\bin\Debug\net8.0\RecursionBasic.exe
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\bin\Debug\net8.0\RecursionBasic.deps.json
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\bin\Debug\net8.0\RecursionBasic.runtimeconfig.json
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\bin\Debug\net8.0\RecursionBasic.dll
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\bin\Debug\net8.0\RecursionBasic.pdb
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\RecursionBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\RecursionBasic.AssemblyInfoInputs.cache
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\RecursionBasic.AssemblyInfo.cs
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\RecursionBasic.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\RecursionBasic.sourcelink.json
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\RecursionBasic.dll
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\refint\RecursionBasic.dll
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\RecursionBasic.pdb
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\RecursionBasic.genruntimeconfig.cache
+D:\WorkSpace\Interview2024\GitStudyMaterial\Coding\LogicalPrograming\Striver Sheet\Recursion\RecursionBasic\obj\Debug\net8.0\ref\RecursionBasic.dll
